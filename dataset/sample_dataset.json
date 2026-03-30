@@ -1,0 +1,3750 @@
+[
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0
+    ],
+    "tokens": [
+      "The",
+      "patient",
+      "has",
+      "diabetes",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0
+    ],
+    "tokens": [
+      "The",
+      "patient",
+      "has",
+      "cancer",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "tokens": [
+      "Patient",
+      "was",
+      "39",
+      "years",
+      "old",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0
+    ],
+    "tokens": [
+      "The",
+      "patient",
+      "has",
+      "cancer",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "tokens": [
+      "Patient",
+      "was",
+      "31",
+      "years",
+      "old",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      2,
+      0,
+      2,
+      0,
+      2
+    ],
+    "tokens": [
+      "Reported",
+      "symptoms",
+      ":",
+      "cough",
+      ",",
+      "breath",
+      ",",
+      "headache",
+      ",",
+      "nausea"
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0
+    ],
+    "tokens": [
+      "The",
+      "patient",
+      "has",
+      "pancreatitis",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "tokens": [
+      "Patient",
+      "was",
+      "84",
+      "years",
+      "old",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "tokens": [
+      "Patient",
+      "was",
+      "86",
+      "years",
+      "old",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "tokens": [
+      "Patient",
+      "was",
+      "10",
+      "years",
+      "old",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      2,
+      0,
+      2
+    ],
+    "tokens": [
+      "Reported",
+      "symptoms",
+      ":",
+      "nausea",
+      ",",
+      "of",
+      ",",
+      "dizziness"
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "tokens": [
+      "Patient",
+      "was",
+      "36",
+      "years",
+      "old",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0
+    ],
+    "tokens": [
+      "The",
+      "patient",
+      "has",
+      "diabetes",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0
+    ],
+    "tokens": [
+      "The",
+      "patient",
+      "has",
+      "stroke",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0
+    ],
+    "tokens": [
+      "The",
+      "patient",
+      "has",
+      "infection",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "tokens": [
+      "Patient",
+      "was",
+      "76",
+      "years",
+      "old",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0
+    ],
+    "tokens": [
+      "The",
+      "patient",
+      "has",
+      "stroke",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "tokens": [
+      "Patient",
+      "was",
+      "6",
+      "years",
+      "old",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "tokens": [
+      "Patient",
+      "was",
+      "75",
+      "years",
+      "old",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      2,
+      0,
+      2
+    ],
+    "tokens": [
+      "Reported",
+      "symptoms",
+      ":",
+      "fever",
+      ",",
+      "headache",
+      ",",
+      "abdominal"
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "tokens": [
+      "Patient",
+      "was",
+      "56",
+      "years",
+      "old",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0
+    ],
+    "tokens": [
+      "The",
+      "patient",
+      "has",
+      "cancer",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0
+    ],
+    "tokens": [
+      "The",
+      "patient",
+      "has",
+      "diabetes",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0
+    ],
+    "tokens": [
+      "The",
+      "patient",
+      "has",
+      "diabetes",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      2,
+      0,
+      2
+    ],
+    "tokens": [
+      "Reported",
+      "symptoms",
+      ":",
+      "vomiting",
+      ",",
+      "dizziness",
+      ",",
+      "nausea"
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0
+    ],
+    "tokens": [
+      "The",
+      "patient",
+      "has",
+      "stroke",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0
+    ],
+    "tokens": [
+      "The",
+      "patient",
+      "has",
+      "asthma",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0
+    ],
+    "tokens": [
+      "The",
+      "patient",
+      "has",
+      "asthma",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      2,
+      0,
+      2
+    ],
+    "tokens": [
+      "Reported",
+      "symptoms",
+      ":",
+      "headache",
+      ",",
+      "nausea",
+      ",",
+      "breath"
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      2,
+      0,
+      2,
+      0,
+      2
+    ],
+    "tokens": [
+      "Reported",
+      "symptoms",
+      ":",
+      "fatigue",
+      ",",
+      "headache",
+      ",",
+      "abdominal",
+      ",",
+      "fever"
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0
+    ],
+    "tokens": [
+      "The",
+      "patient",
+      "has",
+      "pancreatitis",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "tokens": [
+      "Patient",
+      "was",
+      "80",
+      "years",
+      "old",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      2,
+      0,
+      2,
+      0,
+      2
+    ],
+    "tokens": [
+      "Reported",
+      "symptoms",
+      ":",
+      "breath",
+      ",",
+      "shortness",
+      ",",
+      "pain",
+      ",",
+      "of"
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "tokens": [
+      "Patient",
+      "was",
+      "46",
+      "years",
+      "old",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "tokens": [
+      "Patient",
+      "was",
+      "80",
+      "years",
+      "old",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      2,
+      0,
+      2
+    ],
+    "tokens": [
+      "Reported",
+      "symptoms",
+      ":",
+      "shortness",
+      ",",
+      "fatigue",
+      ",",
+      "dizziness"
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      2,
+      0,
+      2
+    ],
+    "tokens": [
+      "Reported",
+      "symptoms",
+      ":",
+      "nausea",
+      ",",
+      "fatigue",
+      ",",
+      "pain"
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "tokens": [
+      "Patient",
+      "was",
+      "74",
+      "years",
+      "old",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      2,
+      0,
+      2,
+      0,
+      2
+    ],
+    "tokens": [
+      "Reported",
+      "symptoms",
+      ":",
+      "vomiting",
+      ",",
+      "of",
+      ",",
+      "breath",
+      ",",
+      "fever"
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "tokens": [
+      "Patient",
+      "was",
+      "13",
+      "years",
+      "old",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "tokens": [
+      "Patient",
+      "was",
+      "42",
+      "years",
+      "old",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0
+    ],
+    "tokens": [
+      "The",
+      "patient",
+      "has",
+      "pancreatitis",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      2
+    ],
+    "tokens": [
+      "Reported",
+      "symptoms",
+      ":",
+      "fatigue",
+      ",",
+      "fever"
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      2
+    ],
+    "tokens": [
+      "Reported",
+      "symptoms",
+      ":",
+      "nausea",
+      ",",
+      "of"
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      2,
+      0,
+      2,
+      0,
+      2
+    ],
+    "tokens": [
+      "Reported",
+      "symptoms",
+      ":",
+      "shortness",
+      ",",
+      "vomiting",
+      ",",
+      "pain",
+      ",",
+      "fatigue"
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "tokens": [
+      "Patient",
+      "was",
+      "58",
+      "years",
+      "old",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "tokens": [
+      "Patient",
+      "was",
+      "64",
+      "years",
+      "old",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      2
+    ],
+    "tokens": [
+      "Reported",
+      "symptoms",
+      ":",
+      "nausea",
+      ",",
+      "abdominal"
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0
+    ],
+    "tokens": [
+      "The",
+      "patient",
+      "has",
+      "hypertension",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "tokens": [
+      "Patient",
+      "was",
+      "57",
+      "years",
+      "old",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "tokens": [
+      "Patient",
+      "was",
+      "73",
+      "years",
+      "old",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0
+    ],
+    "tokens": [
+      "The",
+      "patient",
+      "has",
+      "infection",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0
+    ],
+    "tokens": [
+      "The",
+      "patient",
+      "has",
+      "stroke",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0
+    ],
+    "tokens": [
+      "The",
+      "patient",
+      "has",
+      "cancer",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "tokens": [
+      "Patient",
+      "was",
+      "35",
+      "years",
+      "old",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "tokens": [
+      "Patient",
+      "was",
+      "6",
+      "years",
+      "old",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      2,
+      0,
+      2,
+      0,
+      2
+    ],
+    "tokens": [
+      "Reported",
+      "symptoms",
+      ":",
+      "of",
+      ",",
+      "abdominal",
+      ",",
+      "pain",
+      ",",
+      "cough"
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0
+    ],
+    "tokens": [
+      "The",
+      "patient",
+      "has",
+      "diabetes",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "tokens": [
+      "Patient",
+      "was",
+      "40",
+      "years",
+      "old",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      2,
+      0,
+      2
+    ],
+    "tokens": [
+      "Reported",
+      "symptoms",
+      ":",
+      "of",
+      ",",
+      "fever",
+      ",",
+      "pain"
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "tokens": [
+      "Patient",
+      "was",
+      "43",
+      "years",
+      "old",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      2,
+      0,
+      2,
+      0,
+      2
+    ],
+    "tokens": [
+      "Reported",
+      "symptoms",
+      ":",
+      "breath",
+      ",",
+      "cough",
+      ",",
+      "of",
+      ",",
+      "shortness"
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      2,
+      0,
+      2,
+      0,
+      2
+    ],
+    "tokens": [
+      "Reported",
+      "symptoms",
+      ":",
+      "vomiting",
+      ",",
+      "dizziness",
+      ",",
+      "headache",
+      ",",
+      "nausea"
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0
+    ],
+    "tokens": [
+      "The",
+      "patient",
+      "has",
+      "stroke",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0
+    ],
+    "tokens": [
+      "The",
+      "patient",
+      "has",
+      "infection",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      2,
+      0,
+      2,
+      0,
+      2
+    ],
+    "tokens": [
+      "Reported",
+      "symptoms",
+      ":",
+      "cough",
+      ",",
+      "fatigue",
+      ",",
+      "abdominal",
+      ",",
+      "shortness"
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0
+    ],
+    "tokens": [
+      "The",
+      "patient",
+      "has",
+      "pancreatitis",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0
+    ],
+    "tokens": [
+      "The",
+      "patient",
+      "has",
+      "cancer",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0
+    ],
+    "tokens": [
+      "The",
+      "patient",
+      "has",
+      "asthma",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "tokens": [
+      "Patient",
+      "was",
+      "49",
+      "years",
+      "old",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      2
+    ],
+    "tokens": [
+      "Reported",
+      "symptoms",
+      ":",
+      "shortness",
+      ",",
+      "fatigue"
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "tokens": [
+      "Patient",
+      "was",
+      "46",
+      "years",
+      "old",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0
+    ],
+    "tokens": [
+      "The",
+      "patient",
+      "has",
+      "hypertension",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "tokens": [
+      "Patient",
+      "was",
+      "16",
+      "years",
+      "old",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      2
+    ],
+    "tokens": [
+      "Reported",
+      "symptoms",
+      ":",
+      "breath",
+      ",",
+      "dizziness"
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "tokens": [
+      "Patient",
+      "was",
+      "11",
+      "years",
+      "old",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0
+    ],
+    "tokens": [
+      "The",
+      "patient",
+      "has",
+      "infection",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "tokens": [
+      "Patient",
+      "was",
+      "80",
+      "years",
+      "old",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      2
+    ],
+    "tokens": [
+      "Reported",
+      "symptoms",
+      ":",
+      "dizziness",
+      ",",
+      "headache"
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      2,
+      0,
+      2,
+      0,
+      2
+    ],
+    "tokens": [
+      "Reported",
+      "symptoms",
+      ":",
+      "shortness",
+      ",",
+      "breath",
+      ",",
+      "cough",
+      ",",
+      "abdominal"
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "tokens": [
+      "Patient",
+      "was",
+      "100",
+      "years",
+      "old",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "tokens": [
+      "Patient",
+      "was",
+      "11",
+      "years",
+      "old",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      2
+    ],
+    "tokens": [
+      "Reported",
+      "symptoms",
+      ":",
+      "pain",
+      ",",
+      "fever"
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "tokens": [
+      "Patient",
+      "was",
+      "72",
+      "years",
+      "old",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0
+    ],
+    "tokens": [
+      "The",
+      "patient",
+      "has",
+      "asthma",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      2,
+      0,
+      2
+    ],
+    "tokens": [
+      "Reported",
+      "symptoms",
+      ":",
+      "headache",
+      ",",
+      "breath",
+      ",",
+      "abdominal"
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0
+    ],
+    "tokens": [
+      "The",
+      "patient",
+      "has",
+      "diabetes",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "tokens": [
+      "Patient",
+      "was",
+      "41",
+      "years",
+      "old",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      2,
+      0,
+      2,
+      0,
+      2
+    ],
+    "tokens": [
+      "Reported",
+      "symptoms",
+      ":",
+      "abdominal",
+      ",",
+      "of",
+      ",",
+      "headache",
+      ",",
+      "fatigue"
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "tokens": [
+      "Patient",
+      "was",
+      "6",
+      "years",
+      "old",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0
+    ],
+    "tokens": [
+      "The",
+      "patient",
+      "has",
+      "pancreatitis",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "tokens": [
+      "Patient",
+      "was",
+      "56",
+      "years",
+      "old",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0
+    ],
+    "tokens": [
+      "The",
+      "patient",
+      "has",
+      "stroke",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "tokens": [
+      "Patient",
+      "was",
+      "73",
+      "years",
+      "old",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0
+    ],
+    "tokens": [
+      "The",
+      "patient",
+      "has",
+      "asthma",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0
+    ],
+    "tokens": [
+      "The",
+      "patient",
+      "has",
+      "infection",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "tokens": [
+      "Patient",
+      "was",
+      "95",
+      "years",
+      "old",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0
+    ],
+    "tokens": [
+      "The",
+      "patient",
+      "has",
+      "diabetes",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0
+    ],
+    "tokens": [
+      "The",
+      "patient",
+      "has",
+      "stroke",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "tokens": [
+      "Patient",
+      "was",
+      "15",
+      "years",
+      "old",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "tokens": [
+      "Patient",
+      "was",
+      "96",
+      "years",
+      "old",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0
+    ],
+    "tokens": [
+      "The",
+      "patient",
+      "has",
+      "asthma",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      2,
+      0,
+      2,
+      0,
+      2
+    ],
+    "tokens": [
+      "Reported",
+      "symptoms",
+      ":",
+      "fever",
+      ",",
+      "shortness",
+      ",",
+      "nausea",
+      ",",
+      "cough"
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      2
+    ],
+    "tokens": [
+      "Reported",
+      "symptoms",
+      ":",
+      "headache",
+      ",",
+      "dizziness"
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0
+    ],
+    "tokens": [
+      "The",
+      "patient",
+      "has",
+      "stroke",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "tokens": [
+      "Patient",
+      "was",
+      "20",
+      "years",
+      "old",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "tokens": [
+      "Patient",
+      "was",
+      "70",
+      "years",
+      "old",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      2
+    ],
+    "tokens": [
+      "Reported",
+      "symptoms",
+      ":",
+      "vomiting",
+      ",",
+      "headache"
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      2,
+      0,
+      2
+    ],
+    "tokens": [
+      "Reported",
+      "symptoms",
+      ":",
+      "breath",
+      ",",
+      "dizziness",
+      ",",
+      "vomiting"
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "tokens": [
+      "Patient",
+      "was",
+      "56",
+      "years",
+      "old",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "tokens": [
+      "Patient",
+      "was",
+      "20",
+      "years",
+      "old",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      2
+    ],
+    "tokens": [
+      "Reported",
+      "symptoms",
+      ":",
+      "fatigue",
+      ",",
+      "vomiting"
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0
+    ],
+    "tokens": [
+      "The",
+      "patient",
+      "has",
+      "stroke",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "tokens": [
+      "Patient",
+      "was",
+      "35",
+      "years",
+      "old",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0
+    ],
+    "tokens": [
+      "The",
+      "patient",
+      "has",
+      "asthma",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "tokens": [
+      "Patient",
+      "was",
+      "36",
+      "years",
+      "old",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0
+    ],
+    "tokens": [
+      "The",
+      "patient",
+      "has",
+      "diabetes",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      2,
+      0,
+      2,
+      0,
+      2
+    ],
+    "tokens": [
+      "Reported",
+      "symptoms",
+      ":",
+      "headache",
+      ",",
+      "fatigue",
+      ",",
+      "of",
+      ",",
+      "shortness"
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "tokens": [
+      "Patient",
+      "was",
+      "50",
+      "years",
+      "old",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0
+    ],
+    "tokens": [
+      "The",
+      "patient",
+      "has",
+      "hypertension",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0
+    ],
+    "tokens": [
+      "The",
+      "patient",
+      "has",
+      "cancer",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      2,
+      0,
+      2
+    ],
+    "tokens": [
+      "Reported",
+      "symptoms",
+      ":",
+      "dizziness",
+      ",",
+      "cough",
+      ",",
+      "shortness"
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "tokens": [
+      "Patient",
+      "was",
+      "39",
+      "years",
+      "old",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      2
+    ],
+    "tokens": [
+      "Reported",
+      "symptoms",
+      ":",
+      "fatigue",
+      ",",
+      "breath"
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0
+    ],
+    "tokens": [
+      "The",
+      "patient",
+      "has",
+      "diabetes",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0
+    ],
+    "tokens": [
+      "The",
+      "patient",
+      "has",
+      "hypertension",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0
+    ],
+    "tokens": [
+      "The",
+      "patient",
+      "has",
+      "infection",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "tokens": [
+      "Patient",
+      "was",
+      "7",
+      "years",
+      "old",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "tokens": [
+      "Patient",
+      "was",
+      "30",
+      "years",
+      "old",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      2,
+      0,
+      2,
+      0,
+      2
+    ],
+    "tokens": [
+      "Reported",
+      "symptoms",
+      ":",
+      "of",
+      ",",
+      "dizziness",
+      ",",
+      "nausea",
+      ",",
+      "breath"
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      2,
+      0,
+      2
+    ],
+    "tokens": [
+      "Reported",
+      "symptoms",
+      ":",
+      "abdominal",
+      ",",
+      "shortness",
+      ",",
+      "fever"
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      2
+    ],
+    "tokens": [
+      "Reported",
+      "symptoms",
+      ":",
+      "nausea",
+      ",",
+      "fatigue"
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      2,
+      0,
+      2,
+      0,
+      2
+    ],
+    "tokens": [
+      "Reported",
+      "symptoms",
+      ":",
+      "breath",
+      ",",
+      "pain",
+      ",",
+      "fever",
+      ",",
+      "dizziness"
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "tokens": [
+      "Patient",
+      "was",
+      "33",
+      "years",
+      "old",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      2,
+      0,
+      2
+    ],
+    "tokens": [
+      "Reported",
+      "symptoms",
+      ":",
+      "fatigue",
+      ",",
+      "dizziness",
+      ",",
+      "nausea"
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      2
+    ],
+    "tokens": [
+      "Reported",
+      "symptoms",
+      ":",
+      "breath",
+      ",",
+      "abdominal"
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      2,
+      0,
+      2,
+      0,
+      2
+    ],
+    "tokens": [
+      "Reported",
+      "symptoms",
+      ":",
+      "of",
+      ",",
+      "headache",
+      ",",
+      "abdominal",
+      ",",
+      "pain"
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "tokens": [
+      "Patient",
+      "was",
+      "21",
+      "years",
+      "old",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      2
+    ],
+    "tokens": [
+      "Reported",
+      "symptoms",
+      ":",
+      "fatigue",
+      ",",
+      "vomiting"
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "tokens": [
+      "Patient",
+      "was",
+      "24",
+      "years",
+      "old",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      2,
+      0,
+      2
+    ],
+    "tokens": [
+      "Reported",
+      "symptoms",
+      ":",
+      "of",
+      ",",
+      "pain",
+      ",",
+      "vomiting"
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0
+    ],
+    "tokens": [
+      "The",
+      "patient",
+      "has",
+      "hypertension",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "tokens": [
+      "Patient",
+      "was",
+      "86",
+      "years",
+      "old",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      2,
+      0,
+      2
+    ],
+    "tokens": [
+      "Reported",
+      "symptoms",
+      ":",
+      "cough",
+      ",",
+      "nausea",
+      ",",
+      "dizziness"
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "tokens": [
+      "Patient",
+      "was",
+      "74",
+      "years",
+      "old",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      2,
+      0,
+      2,
+      0,
+      2
+    ],
+    "tokens": [
+      "Reported",
+      "symptoms",
+      ":",
+      "dizziness",
+      ",",
+      "fever",
+      ",",
+      "cough",
+      ",",
+      "vomiting"
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      2,
+      0,
+      2
+    ],
+    "tokens": [
+      "Reported",
+      "symptoms",
+      ":",
+      "fever",
+      ",",
+      "cough",
+      ",",
+      "pain"
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      2,
+      0,
+      2
+    ],
+    "tokens": [
+      "Reported",
+      "symptoms",
+      ":",
+      "fever",
+      ",",
+      "dizziness",
+      ",",
+      "headache"
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      2,
+      0,
+      2
+    ],
+    "tokens": [
+      "Reported",
+      "symptoms",
+      ":",
+      "shortness",
+      ",",
+      "vomiting",
+      ",",
+      "of"
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      2
+    ],
+    "tokens": [
+      "Reported",
+      "symptoms",
+      ":",
+      "nausea",
+      ",",
+      "shortness"
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0
+    ],
+    "tokens": [
+      "The",
+      "patient",
+      "has",
+      "pancreatitis",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0
+    ],
+    "tokens": [
+      "The",
+      "patient",
+      "has",
+      "pancreatitis",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      2,
+      0,
+      2
+    ],
+    "tokens": [
+      "Reported",
+      "symptoms",
+      ":",
+      "fever",
+      ",",
+      "nausea",
+      ",",
+      "fatigue"
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "tokens": [
+      "Patient",
+      "was",
+      "74",
+      "years",
+      "old",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "tokens": [
+      "Patient",
+      "was",
+      "45",
+      "years",
+      "old",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0
+    ],
+    "tokens": [
+      "The",
+      "patient",
+      "has",
+      "diabetes",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      2,
+      0,
+      2
+    ],
+    "tokens": [
+      "Reported",
+      "symptoms",
+      ":",
+      "fever",
+      ",",
+      "breath",
+      ",",
+      "fatigue"
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0
+    ],
+    "tokens": [
+      "The",
+      "patient",
+      "has",
+      "infection",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      2,
+      0,
+      2,
+      0,
+      2
+    ],
+    "tokens": [
+      "Reported",
+      "symptoms",
+      ":",
+      "breath",
+      ",",
+      "abdominal",
+      ",",
+      "pain",
+      ",",
+      "fatigue"
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      2
+    ],
+    "tokens": [
+      "Reported",
+      "symptoms",
+      ":",
+      "of",
+      ",",
+      "dizziness"
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      2,
+      0,
+      2,
+      0,
+      2
+    ],
+    "tokens": [
+      "Reported",
+      "symptoms",
+      ":",
+      "dizziness",
+      ",",
+      "breath",
+      ",",
+      "pain",
+      ",",
+      "cough"
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      2,
+      0,
+      2
+    ],
+    "tokens": [
+      "Reported",
+      "symptoms",
+      ":",
+      "fatigue",
+      ",",
+      "abdominal",
+      ",",
+      "nausea"
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0
+    ],
+    "tokens": [
+      "The",
+      "patient",
+      "has",
+      "diabetes",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "tokens": [
+      "Patient",
+      "was",
+      "19",
+      "years",
+      "old",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "tokens": [
+      "Patient",
+      "was",
+      "4",
+      "years",
+      "old",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      2
+    ],
+    "tokens": [
+      "Reported",
+      "symptoms",
+      ":",
+      "vomiting",
+      ",",
+      "of"
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0
+    ],
+    "tokens": [
+      "The",
+      "patient",
+      "has",
+      "cancer",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0
+    ],
+    "tokens": [
+      "The",
+      "patient",
+      "has",
+      "stroke",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      2,
+      0,
+      2
+    ],
+    "tokens": [
+      "Reported",
+      "symptoms",
+      ":",
+      "headache",
+      ",",
+      "abdominal",
+      ",",
+      "dizziness"
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0
+    ],
+    "tokens": [
+      "The",
+      "patient",
+      "has",
+      "infection",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      2,
+      0,
+      2
+    ],
+    "tokens": [
+      "Reported",
+      "symptoms",
+      ":",
+      "abdominal",
+      ",",
+      "vomiting",
+      ",",
+      "fatigue"
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0
+    ],
+    "tokens": [
+      "The",
+      "patient",
+      "has",
+      "cancer",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      2,
+      0,
+      2
+    ],
+    "tokens": [
+      "Reported",
+      "symptoms",
+      ":",
+      "vomiting",
+      ",",
+      "cough",
+      ",",
+      "breath"
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "tokens": [
+      "Patient",
+      "was",
+      "49",
+      "years",
+      "old",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "tokens": [
+      "Patient",
+      "was",
+      "44",
+      "years",
+      "old",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      2,
+      0,
+      2
+    ],
+    "tokens": [
+      "Reported",
+      "symptoms",
+      ":",
+      "cough",
+      ",",
+      "of",
+      ",",
+      "dizziness"
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "tokens": [
+      "Patient",
+      "was",
+      "85",
+      "years",
+      "old",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0
+    ],
+    "tokens": [
+      "The",
+      "patient",
+      "has",
+      "asthma",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0
+    ],
+    "tokens": [
+      "The",
+      "patient",
+      "has",
+      "cancer",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0
+    ],
+    "tokens": [
+      "The",
+      "patient",
+      "has",
+      "cancer",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "tokens": [
+      "Patient",
+      "was",
+      "66",
+      "years",
+      "old",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "tokens": [
+      "Patient",
+      "was",
+      "38",
+      "years",
+      "old",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      2,
+      0,
+      2
+    ],
+    "tokens": [
+      "Reported",
+      "symptoms",
+      ":",
+      "abdominal",
+      ",",
+      "pain",
+      ",",
+      "vomiting"
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      2
+    ],
+    "tokens": [
+      "Reported",
+      "symptoms",
+      ":",
+      "nausea",
+      ",",
+      "pain"
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "tokens": [
+      "Patient",
+      "was",
+      "8",
+      "years",
+      "old",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      2,
+      0,
+      2,
+      0,
+      2
+    ],
+    "tokens": [
+      "Reported",
+      "symptoms",
+      ":",
+      "shortness",
+      ",",
+      "cough",
+      ",",
+      "fatigue",
+      ",",
+      "fever"
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0
+    ],
+    "tokens": [
+      "The",
+      "patient",
+      "has",
+      "pancreatitis",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0
+    ],
+    "tokens": [
+      "The",
+      "patient",
+      "has",
+      "pancreatitis",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "tokens": [
+      "Patient",
+      "was",
+      "25",
+      "years",
+      "old",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0
+    ],
+    "tokens": [
+      "The",
+      "patient",
+      "has",
+      "infection",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0
+    ],
+    "tokens": [
+      "The",
+      "patient",
+      "has",
+      "asthma",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      2,
+      0,
+      2
+    ],
+    "tokens": [
+      "Reported",
+      "symptoms",
+      ":",
+      "vomiting",
+      ",",
+      "of",
+      ",",
+      "nausea"
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      2,
+      0,
+      2,
+      0,
+      2
+    ],
+    "tokens": [
+      "Reported",
+      "symptoms",
+      ":",
+      "nausea",
+      ",",
+      "vomiting",
+      ",",
+      "headache",
+      ",",
+      "cough"
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "tokens": [
+      "Patient",
+      "was",
+      "69",
+      "years",
+      "old",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0
+    ],
+    "tokens": [
+      "The",
+      "patient",
+      "has",
+      "diabetes",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      2
+    ],
+    "tokens": [
+      "Reported",
+      "symptoms",
+      ":",
+      "dizziness",
+      ",",
+      "of"
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      2,
+      0,
+      2
+    ],
+    "tokens": [
+      "Reported",
+      "symptoms",
+      ":",
+      "vomiting",
+      ",",
+      "cough",
+      ",",
+      "breath"
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "tokens": [
+      "Patient",
+      "was",
+      "36",
+      "years",
+      "old",
+      "."
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      2
+    ],
+    "tokens": [
+      "Reported",
+      "symptoms",
+      ":",
+      "headache",
+      ",",
+      "abdominal"
+    ]
+  },
+  {
+    "tags": [
+      0,
+      0,
+      0,
+      2,
+      0,
+      2
+    ],
+    "tokens": [
+      "Reported",
+      "symptoms",
+      ":",
+      "fever",
+      ",",
+      "nausea"
+    ]
+  }
+]

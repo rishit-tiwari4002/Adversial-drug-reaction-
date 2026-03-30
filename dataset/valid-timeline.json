@@ -1,0 +1,100 @@
+{"tokens": ["Fever", "began", "2", "hours", "."], "tags": [0, 0, 1, 2, 0]}
+{"tokens": ["Fever", "began", "2", "days", "ago", "."], "tags": [0, 0, 1, 2, 2, 0]}
+{"tokens": ["Patient", "was", "treated", "for", "7", "days", "."], "tags": [0, 0, 0, 0, 1, 2, 0]}
+{"tokens": ["Fever", "began", "May", "5", ",", "2023", "."], "tags": [0, 0, 1, 2, 2, 2, 0]}
+{"tokens": ["He", "had", "nausea", "since", "5", "months", "."], "tags": [0, 0, 0, 0, 1, 2, 0]}
+{"tokens": ["Fever", "began", "12", "/", "07", "/", "2020", "."], "tags": [0, 0, 1, 2, 2, 2, 2, 0]}
+{"tokens": ["Fever", "began", "12", "/", "07", "/", "2020", "."], "tags": [0, 0, 1, 2, 2, 2, 2, 0]}
+{"tokens": ["Patient", "started", "aspirin", "on", "after", "7", "days", "."], "tags": [0, 0, 0, 0, 1, 2, 2, 0]}
+{"tokens": ["Patient", "started", "aspirin", "on", "March", "2021", "."], "tags": [0, 0, 0, 0, 1, 2, 0]}
+{"tokens": ["Patient", "started", "aspirin", "on", "7", "days", "."], "tags": [0, 0, 0, 0, 1, 2, 0]}
+{"tokens": ["He", "stopped", "ibuprofen", "after", "2", "hours", "."], "tags": [0, 0, 0, 0, 1, 2, 0]}
+{"tokens": ["He", "had", "nausea", "since", "after", "7", "days", "."], "tags": [0, 0, 0, 0, 1, 2, 2, 0]}
+{"tokens": ["He", "had", "nausea", "since", "last", "week", "."], "tags": [0, 0, 0, 0, 1, 2, 0]}
+{"tokens": ["Fever", "began", "2", "days", "ago", "."], "tags": [0, 0, 1, 2, 2, 0]}
+{"tokens": ["Fever", "began", "yesterday", "."], "tags": [0, 0, 1, 0]}
+{"tokens": ["He", "stopped", "ibuprofen", "after", "2", "hours", "."], "tags": [0, 0, 0, 0, 1, 2, 0]}
+{"tokens": ["Headache", "occurred", "last", "week", "."], "tags": [0, 0, 1, 2, 0]}
+{"tokens": ["Fever", "began", "7", "days", "."], "tags": [0, 0, 1, 2, 0]}
+{"tokens": ["Rash", "appeared", "12", "/", "07", "/", "2020", "."], "tags": [0, 0, 1, 2, 2, 2, 2, 0]}
+{"tokens": ["He", "had", "nausea", "since", "March", "2021", "."], "tags": [0, 0, 0, 0, 1, 2, 0]}
+{"tokens": ["Patient", "was", "treated", "for", "March", "2021", "."], "tags": [0, 0, 0, 0, 1, 2, 0]}
+{"tokens": ["He", "stopped", "ibuprofen", "after", "3", "weeks", "."], "tags": [0, 0, 0, 0, 1, 2, 0]}
+{"tokens": ["He", "stopped", "ibuprofen", "after", "March", "2021", "."], "tags": [0, 0, 0, 0, 1, 2, 0]}
+{"tokens": ["Patient", "started", "aspirin", "on", "June", "15", "."], "tags": [0, 0, 0, 0, 1, 2, 0]}
+{"tokens": ["Patient", "started", "aspirin", "on", "7", "days", "."], "tags": [0, 0, 0, 0, 1, 2, 0]}
+{"tokens": ["He", "had", "nausea", "since", "since", "Monday", "."], "tags": [0, 0, 0, 0, 1, 2, 0]}
+{"tokens": ["Headache", "occurred", "3", "weeks", "."], "tags": [0, 0, 1, 2, 0]}
+{"tokens": ["Fever", "began", "May", "5", ",", "2023", "."], "tags": [0, 0, 1, 2, 2, 2, 0]}
+{"tokens": ["Treatment", "continued", "for", "since", "Monday", "."], "tags": [0, 0, 0, 1, 2, 0]}
+{"tokens": ["He", "had", "nausea", "since", "since", "Monday", "."], "tags": [0, 0, 0, 0, 1, 2, 0]}
+{"tokens": ["Headache", "occurred", "12", "/", "07", "/", "2020", "."], "tags": [0, 0, 1, 2, 2, 2, 2, 0]}
+{"tokens": ["Rash", "appeared", "12", "/", "07", "/", "2020", "."], "tags": [0, 0, 1, 2, 2, 2, 2, 0]}
+{"tokens": ["Rash", "appeared", "2", "hours", "."], "tags": [0, 0, 1, 2, 0]}
+{"tokens": ["Patient", "started", "aspirin", "on", "5", "months", "."], "tags": [0, 0, 0, 0, 1, 2, 0]}
+{"tokens": ["Rash", "appeared", "3", "weeks", "."], "tags": [0, 0, 1, 2, 0]}
+{"tokens": ["He", "stopped", "ibuprofen", "after", "June", "15", "."], "tags": [0, 0, 0, 0, 1, 2, 0]}
+{"tokens": ["Fever", "began", "7", "days", "."], "tags": [0, 0, 1, 2, 0]}
+{"tokens": ["Patient", "started", "aspirin", "on", "March", "2021", "."], "tags": [0, 0, 0, 0, 1, 2, 0]}
+{"tokens": ["He", "had", "nausea", "since", "2", "hours", "."], "tags": [0, 0, 0, 0, 1, 2, 0]}
+{"tokens": ["Patient", "started", "aspirin", "on", "5", "months", "."], "tags": [0, 0, 0, 0, 1, 2, 0]}
+{"tokens": ["Fever", "began", "May", "5", ",", "2023", "."], "tags": [0, 0, 1, 2, 2, 2, 0]}
+{"tokens": ["Treatment", "continued", "for", "3", "weeks", "."], "tags": [0, 0, 0, 1, 2, 0]}
+{"tokens": ["He", "had", "nausea", "since", "June", "15", "."], "tags": [0, 0, 0, 0, 1, 2, 0]}
+{"tokens": ["Rash", "appeared", "June", "15", "."], "tags": [0, 0, 1, 2, 0]}
+{"tokens": ["Treatment", "continued", "for", "May", "5", ",", "2023", "."], "tags": [0, 0, 0, 1, 2, 2, 2, 0]}
+{"tokens": ["He", "stopped", "ibuprofen", "after", "since", "Monday", "."], "tags": [0, 0, 0, 0, 1, 2, 0]}
+{"tokens": ["Headache", "occurred", "for", "three", "weeks", "."], "tags": [0, 0, 1, 2, 2, 0]}
+{"tokens": ["Rash", "appeared", "yesterday", "."], "tags": [0, 0, 1, 0]}
+{"tokens": ["Fever", "began", "7", "days", "."], "tags": [0, 0, 1, 2, 0]}
+{"tokens": ["Rash", "appeared", "since", "Monday", "."], "tags": [0, 0, 1, 2, 0]}
+{"tokens": ["He", "stopped", "ibuprofen", "after", "last", "week", "."], "tags": [0, 0, 0, 0, 1, 2, 0]}
+{"tokens": ["Headache", "occurred", "12", "/", "07", "/", "2020", "."], "tags": [0, 0, 1, 2, 2, 2, 2, 0]}
+{"tokens": ["Patient", "was", "treated", "for", "2", "hours", "."], "tags": [0, 0, 0, 0, 1, 2, 0]}
+{"tokens": ["He", "stopped", "ibuprofen", "after", "2", "hours", "."], "tags": [0, 0, 0, 0, 1, 2, 0]}
+{"tokens": ["Treatment", "continued", "for", "3", "weeks", "."], "tags": [0, 0, 0, 1, 2, 0]}
+{"tokens": ["Fever", "began", "3", "weeks", "."], "tags": [0, 0, 1, 2, 0]}
+{"tokens": ["Treatment", "continued", "for", "after", "7", "days", "."], "tags": [0, 0, 0, 1, 2, 2, 0]}
+{"tokens": ["Fever", "began", "June", "15", "."], "tags": [0, 0, 1, 2, 0]}
+{"tokens": ["Patient", "started", "aspirin", "on", "yesterday", "."], "tags": [0, 0, 0, 0, 1, 0]}
+{"tokens": ["Fever", "began", "3", "weeks", "."], "tags": [0, 0, 1, 2, 0]}
+{"tokens": ["He", "stopped", "ibuprofen", "after", "7", "days", "."], "tags": [0, 0, 0, 0, 1, 2, 0]}
+{"tokens": ["Headache", "occurred", "yesterday", "."], "tags": [0, 0, 1, 0]}
+{"tokens": ["Patient", "was", "treated", "for", "2", "days", "ago", "."], "tags": [0, 0, 0, 0, 1, 2, 2, 0]}
+{"tokens": ["He", "stopped", "ibuprofen", "after", "5", "months", "."], "tags": [0, 0, 0, 0, 1, 2, 0]}
+{"tokens": ["Fever", "began", "5", "months", "."], "tags": [0, 0, 1, 2, 0]}
+{"tokens": ["Headache", "occurred", "3", "weeks", "."], "tags": [0, 0, 1, 2, 0]}
+{"tokens": ["Patient", "was", "treated", "for", "5", "months", "."], "tags": [0, 0, 0, 0, 1, 2, 0]}
+{"tokens": ["Patient", "was", "treated", "for", "3", "weeks", "."], "tags": [0, 0, 0, 0, 1, 2, 0]}
+{"tokens": ["He", "had", "nausea", "since", "yesterday", "."], "tags": [0, 0, 0, 0, 1, 0]}
+{"tokens": ["He", "had", "nausea", "since", "3", "weeks", "."], "tags": [0, 0, 0, 0, 1, 2, 0]}
+{"tokens": ["He", "stopped", "ibuprofen", "after", "2", "hours", "."], "tags": [0, 0, 0, 0, 1, 2, 0]}
+{"tokens": ["He", "had", "nausea", "since", "May", "5", ",", "2023", "."], "tags": [0, 0, 0, 0, 1, 2, 2, 2, 0]}
+{"tokens": ["Headache", "occurred", "yesterday", "."], "tags": [0, 0, 1, 0]}
+{"tokens": ["Treatment", "continued", "for", "5", "months", "."], "tags": [0, 0, 0, 1, 2, 0]}
+{"tokens": ["Patient", "was", "treated", "for", "3", "weeks", "."], "tags": [0, 0, 0, 0, 1, 2, 0]}
+{"tokens": ["He", "stopped", "ibuprofen", "after", "since", "Monday", "."], "tags": [0, 0, 0, 0, 1, 2, 0]}
+{"tokens": ["Patient", "started", "aspirin", "on", "for", "three", "weeks", "."], "tags": [0, 0, 0, 0, 1, 2, 2, 0]}
+{"tokens": ["He", "stopped", "ibuprofen", "after", "yesterday", "."], "tags": [0, 0, 0, 0, 1, 0]}
+{"tokens": ["Headache", "occurred", "12", "/", "07", "/", "2020", "."], "tags": [0, 0, 1, 2, 2, 2, 2, 0]}
+{"tokens": ["Rash", "appeared", "2", "hours", "."], "tags": [0, 0, 1, 2, 0]}
+{"tokens": ["Rash", "appeared", "for", "three", "weeks", "."], "tags": [0, 0, 1, 2, 2, 0]}
+{"tokens": ["Headache", "occurred", "June", "15", "."], "tags": [0, 0, 1, 2, 0]}
+{"tokens": ["Fever", "began", "2", "hours", "."], "tags": [0, 0, 1, 2, 0]}
+{"tokens": ["Fever", "began", "for", "three", "weeks", "."], "tags": [0, 0, 1, 2, 2, 0]}
+{"tokens": ["Fever", "began", "June", "15", "."], "tags": [0, 0, 1, 2, 0]}
+{"tokens": ["Rash", "appeared", "yesterday", "."], "tags": [0, 0, 1, 0]}
+{"tokens": ["Treatment", "continued", "for", "7", "days", "."], "tags": [0, 0, 0, 1, 2, 0]}
+{"tokens": ["Headache", "occurred", "since", "Monday", "."], "tags": [0, 0, 1, 2, 0]}
+{"tokens": ["He", "had", "nausea", "since", "May", "5", ",", "2023", "."], "tags": [0, 0, 0, 0, 1, 2, 2, 2, 0]}
+{"tokens": ["Patient", "was", "treated", "for", "3", "weeks", "."], "tags": [0, 0, 0, 0, 1, 2, 0]}
+{"tokens": ["Patient", "was", "treated", "for", "since", "Monday", "."], "tags": [0, 0, 0, 0, 1, 2, 0]}
+{"tokens": ["Headache", "occurred", "since", "Monday", "."], "tags": [0, 0, 1, 2, 0]}
+{"tokens": ["Fever", "began", "after", "7", "days", "."], "tags": [0, 0, 1, 2, 2, 0]}
+{"tokens": ["He", "had", "nausea", "since", "yesterday", "."], "tags": [0, 0, 0, 0, 1, 0]}
+{"tokens": ["Headache", "occurred", "3", "weeks", "."], "tags": [0, 0, 1, 2, 0]}
+{"tokens": ["Treatment", "continued", "for", "5", "months", "."], "tags": [0, 0, 0, 1, 2, 0]}
+{"tokens": ["Rash", "appeared", "2", "days", "ago", "."], "tags": [0, 0, 1, 2, 2, 0]}
+{"tokens": ["Patient", "started", "aspirin", "on", "since", "Monday", "."], "tags": [0, 0, 0, 0, 1, 2, 0]}
+{"tokens": ["Patient", "was", "treated", "for", "June", "15", "."], "tags": [0, 0, 0, 0, 1, 2, 0]}
+{"tokens": ["He", "stopped", "ibuprofen", "after", "2", "hours", "."], "tags": [0, 0, 0, 0, 1, 2, 0]}
